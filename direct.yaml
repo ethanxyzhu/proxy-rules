@@ -1,0 +1,11 @@
+payload:
+  - SRC-IP-CIDR,10.0.0.13/32
+  - PROCESS-NAME,tailscaled
+  - PROCESS-NAME,tailscaled.exe
+  - DOMAIN,clash.razord.top
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,asus.com.cn
+  - DOMAIN-SUFFIX,nzxt.com
+  - DOMAIN-SUFFIX,mathworks.com
