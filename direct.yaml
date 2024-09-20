@@ -4,6 +4,8 @@ payload:
   - PROCESS-NAME,tailscaled.exe
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,argotunnel.com
   - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,asus.com
