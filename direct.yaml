@@ -5,6 +5,7 @@ payload:
   - DOMAIN,clash.razord.top
   - DOMAIN,yacd.haishan.me
   - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,asus.com.cn
   - DOMAIN-SUFFIX,nzxt.com
