@@ -1,5 +1,4 @@
 payload:
-  - IP-CIDR,128.204.223.42/32 # serv00
   - SRC-IP-CIDR,10.0.0.13/32 # 打印机
   - DOMAIN-SUFFIX,hsien.top # 我的域名
   - PROCESS-NAME,tailscaled
