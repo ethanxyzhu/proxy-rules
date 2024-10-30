@@ -1,14 +1,12 @@
 payload:
-  - SRC-IP-CIDR,10.0.0.13/32 # 打印机
-  - DOMAIN-SUFFIX,hsien.top # 我的域名
+  - DOMAIN-SUFFIX,hsien.top
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,tailscaled.exe
-  - DOMAIN,clash.razord.top
-  - DOMAIN,yacd.haishan.me
+  - PROCESS-NAME,cloudflared
+  - PROCESS-NAME,cloudflared.exe
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,argotunnel.com
-  - DOMAIN-SUFFIX,423down.com
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,asus.com.cn
   - DOMAIN-SUFFIX,nzxt.com
