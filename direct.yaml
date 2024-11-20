@@ -1,9 +1,9 @@
 payload:
-  - DOMAIN-SUFFIX,hsien.top
   - PROCESS-NAME,tailscaled
   - PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
+  - DOMAIN-SUFFIX,hsien.top
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,argotunnel.com
