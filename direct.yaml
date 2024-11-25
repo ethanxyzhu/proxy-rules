@@ -4,6 +4,7 @@ payload:
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
   - DOMAIN-SUFFIX,hsien.top
+  - DOMAIN-SUFFIX,linux.do
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,argotunnel.com
