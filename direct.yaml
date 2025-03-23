@@ -3,7 +3,8 @@ payload:
   - PROCESS-NAME,tailscaled.exe
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
-  - DOMAIN-SUFFIX,hsien.top
+  - DOMAIN-SUFFIX,x1an.org
+  - DOMAIN-SUFFIX,drunkdeer-antler.com
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,argotunnel.com
