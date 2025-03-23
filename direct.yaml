@@ -4,6 +4,7 @@ payload:
   - PROCESS-NAME,cloudflared
   - PROCESS-NAME,cloudflared.exe
   - DOMAIN-SUFFIX,x1an.org
+  - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,drunkdeer-antler.com
   - DOMAIN-SUFFIX,tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
